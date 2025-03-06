@@ -1,0 +1,17 @@
+{
+  "User1": {
+    "encryptedKey": "9be0482caaf2cd3c4760cba215fe9b730f46af65ffca7df8446a49d0a1365981",
+    "iv": "0d6ae22e8fb96255ed9881d5",
+    "authTag": "648dfbcad0a24f1bca95d5909c5b6625"
+  },
+  "User2": {
+    "encryptedKey": "88b2f5dff3f751b9eadfb31a64614bbfc6f4126a2185bbddebf654f252fb8009",
+    "iv": "0d6ae22e8fb96255ed9881d5",
+    "authTag": "2e6cb96d7ced7677c5e4d6e5f358286e"
+  },
+  "User3": {
+    "encryptedKey": "401d6ed82c906be6320c45ad369f59f3b965d396d6e834e74bd7da2753e7ef4e",
+    "iv": "0d6ae22e8fb96255ed9881d5",
+    "authTag": "2a1e515c7c338c1a88760e84e721dae2"
+  }
+}
